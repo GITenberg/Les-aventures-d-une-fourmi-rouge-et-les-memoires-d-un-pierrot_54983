@@ -1,0 +1,35 @@
+_repo: Les-aventures-d-une-fourmi-rouge-et-les-memoires-d-un-pierrot_54983
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Mesnel, A.
+    alias: Mesnel
+    gutenberg_agent_id: '43508'
+    url: http://www.gutenberg.org/2009/agents/43508
+  - agent_name: Giacomelli, Hector
+    alias: Giacomelli, H. (Hector)
+    birthdate: 1822
+    deathdate: 1904
+    gutenberg_agent_id: '42022'
+    url: http://www.gutenberg.org/2009/agents/42022
+creator:
+  author:
+    agent_name: Blanchère, Henri de la
+    gutenberg_agent_id: '48142'
+    url: http://www.gutenberg.org/2009/agents/48142
+description: ''
+gutenberg_bookshelf:
+- FR Jeunesse
+- FR Contes
+gutenberg_issued: '2017-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54983'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les aventures d'une fourmi rouge et les mémoires d'un pierrot
+url: http://www.gutenberg.org/ebooks/54983
